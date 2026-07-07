@@ -1,6 +1,4 @@
-Since this project is mainly for your GitHub portfolio, keep the README simple, clean, and professional.
 
-```markdown
 # 🎓 Student Internship Tracker
 
 A desktop-based Java application that helps students manage internship opportunities, applications, and skills in one place.
