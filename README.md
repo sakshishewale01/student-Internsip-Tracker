@@ -38,7 +38,6 @@ StudentInternshipTracker/
 │
 ├── sql/
 ├── lib/
-├── out/
 └── README.md
 
 ```
